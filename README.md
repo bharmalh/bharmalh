@@ -6,19 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharmalh&label=Profile%20views&color=0e75b6&style=flat" alt="bharmalh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hussain_codes" target="blank"><img src="https://img.shields.io/twitter/follow/hussain_codes?logo=twitter&style=for-the-badge" alt="hussain_codes" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://www.hussainb.me](https://www.hussainb.me)
 
 - 💬 Ask me about **Javascript, Node.js, React**
-
-- 📫 How to reach me **@hussain_codes**
 
 - ⚡ Fun fact **I am a polyglot and learning more languages!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hussain_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hussain_codes" height="30" width="40" /></a>
+<a href="https://twitter.com/hussainb256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hussainb256" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hussain-bharmal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain-bharmal/" height="30" width="40" /></a>
 </p>
 
