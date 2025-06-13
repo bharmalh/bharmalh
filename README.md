@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharmalh&label=Profile%20views&color=0e75b6&style=flat" alt="bharmalh" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.hussainb.me](https://www.hussainb.me)
+- 👨‍💻 Implementation Engineer @ Adyen
 
-- 💬 Ask me about **Javascript, Node.js, React**
+- 💬 Ask me about **Solutions Engineering, Wordpress, Javascript, Node.js** - I love talking about using technology to solve operationals pains in businesses.
 
-- ⚡ Fun fact **I am a polyglot and learning more languages!**
+- ⚡ Fun fact **I am a polyglot and learning more languages (Dutch currently)!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
